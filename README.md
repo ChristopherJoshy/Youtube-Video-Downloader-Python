@@ -47,11 +47,6 @@ To run this app, you need:
 - **Error Handling**: The app provides error messages for invalid URLs or other issues (e.g., no internet connection).
 - **Success Message**: Displays a confirmation once the video has been successfully downloaded.
 
-## Example
-
-- Example of the GUI:
-
-  ![Example](./example_gui_screenshot.png) *(This would be a screenshot of your app’s window)*
 
 ## Dependencies
 
